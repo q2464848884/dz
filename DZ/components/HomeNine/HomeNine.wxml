@@ -1,2 +1,22 @@
 <!--components/HomeNine/HomeNine.wxml-->
-<text>components/HomeNine/HomeNine.wxml</text>
+ <view>
+      <!-- <view>
+          <image src='../../images/Home/3_18.png'></image>
+      </view> -->
+      <!-- <ul>
+        <li>
+          <image src='../../images/Home/3_18.png'></image>
+          <text></text>
+          <view>
+          </view>
+        </li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+      </ul>
+       -->
+
+       <button bindtap='dianji'>获取地理位置</button>
+ </view>
