@@ -2,7 +2,11 @@
   "pages": [
     "pages/home/home",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "components/HomeHead/HomeHead",
+    "components/HomeNine/HomeNine",
+    "components/HomeMiddle/HomeMiddle",
+    "components/HomeList/HomeList"
   ],
   "window": {
     "backgroundTextStyle": "light",
